@@ -133,3 +133,16 @@ E-Commerce Platform for Computer Hardware and Gaming Gear
 | 2 | พัฒนา Frontend (Frontend Development) | เขียนโค้ดส่วนหน้าบ้านด้วย React เพื่อสร้างหน้าจอแสดงสินค้า หมวดหมู่ ตะกร้าสินค้า และหน้าจำลองสั่งซื้อ |
 | 3 | พัฒนา Backend และฐานข้อมูล (Backend & Database Development) | พัฒนาส่วนหลังบ้านด้วย Node.js และสร้างฐานข้อมูล MySQL เพื่อใช้จัดการและเชื่อมต่อข้อมูลสินค้าและคำสั่งซื้อ |
 | 4 | ทดสอบระบบและนำเสนอผลงาน (Testing & Presentation) | ทำการทดสอบระบบแบบ Manual Testing และทำ UAT ตรวจสอบความถูกต้อง พร้อมจัดทำสรุปเพื่อนำเสนอผลงาน |
+---
+
+# URL Repository
+
+https://github.com/nagamura999/Workshop
+
+---
+
+# หลักฐานการดำเนินงาน
+
+## ข้อ 2 : SourceTree และ Commit History
+
+![SourceTree Commit History](images/sourcetree-history.png)
