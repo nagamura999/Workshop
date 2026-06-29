@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis & Design</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Analysis & Design</h1>
+    <p>ระบบร้านค้าออนไลน์ขายอุปกรณ์คอมพิวเตอร์</p>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#product">สินค้า</a>
+    <a href="#cart">ตะกร้า</a>
+    <a href="#checkout">ชำระเงิน</a>
+    <a href="#admin">Admin</a>
+</nav>
+
+<section id="home" class="page">
+    <h2>หน้าแรก (Home)</h2>
+
+    <div class="search">
+        <input type="text" placeholder="ค้นหาสินค้า">
+        <button>ค้นหา</button>
+    </div>
+
+    <div class="products">
+        <div class="card">
+            <h3>RTX 5070</h3>
+            <p>฿24,900</p>
+            <button>เพิ่มลงตะกร้า</button>
+        </div>
+
+        <div class="card">
+            <h3>Ryzen 7</h3>
+            <p>฿11,900</p>
+            <button>เพิ่มลงตะกร้า</button>
+        </div>
+
+        <div class="card">
+            <h3>SSD Samsung</h3>
+            <p>฿2,990</p>
+            <button>เพิ่มลงตะกร้า</button>
+        </div>
+    </div>
+</section>
+
+<section id="product" class="page">
+    <h2>รายละเอียดสินค้า</h2>
+
+    <div class="product-detail">
+        <div class="image">รูปสินค้า</div>
+
+        <div>
+            <h3>RTX 5070</h3>
+            <p>ราคา : ฿24,900</p>
+            <p>การ์ดจอสำหรับเล่นเกมและงานกราฟิก</p>
+
+            <button>เพิ่มลงตะกร้า</button>
+        </div>
+    </div>
+</section>
+
+<section id="cart" class="page">
+    <h2>ตะกร้าสินค้า</h2>
+
+    <table>
+        <tr>
+            <th>สินค้า</th>
+            <th>จำนวน</th>
+            <th>ราคา</th>
+        </tr>
+
+        <tr>
+            <td>RTX 5070</td>
+            <td>1</td>
+            <td>24,900</td>
+        </tr>
+
+        <tr>
+            <td>SSD Samsung</td>
+            <td>2</td>
+            <td>5,980</td>
+        </tr>
+    </table>
+
+    <h3>รวมทั้งหมด 30,880 บาท</h3>
+
+    <button>ชำระเงิน</button>
+</section>
+
+<section id="checkout" class="page">
+    <h2>ชำระเงิน</h2>
+
+    <input type="text" placeholder="ชื่อผู้รับ"><br><br>
+    <input type="text" placeholder="ที่อยู่"><br><br>
+    <input type="text" placeholder="เบอร์โทร"><br><br>
+
+    <button>ยืนยันการสั่งซื้อ</button>
+</section>
+
+<section id="admin" class="page">
+    <h2>Admin Dashboard</h2>
+
+    <div class="products">
+        <div class="card">
+            <h3>จำนวนสินค้า</h3>
+            <p>120 รายการ</p>
+        </div>
+
+        <div class="card">
+            <h3>คำสั่งซื้อ</h3>
+            <p>45 รายการ</p>
+        </div>
+
+        <div class="card">
+            <h3>รายได้วันนี้</h3>
+            <p>125,000 บาท</p>
+        </div>
+    </div>
+
+    <button>เพิ่มสินค้า</button>
+    <button>แก้ไขสินค้า</button>
+    <button>จัดการคำสั่งซื้อ</button>
+</section>
+
+</body>
+</html>
