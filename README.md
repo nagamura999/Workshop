@@ -29,8 +29,8 @@ E-Commerce Platform for Computer Hardware and Gaming Gear
 
 | รหัสนักศึกษา | ชื่อ-สกุล | หน้าที่ |
 |--------------|------------------|------------------------------|
-| 67144643 | สุรวุฒิ บุญชัย | Project Manager / Leader Dev |
-| 67150490 | เขมฤดี สีบุญสันต์ | Software Developer & QA Tester |
+| 67144643 | สุรวุฒิ บุญยู้ | Project Manager / Leader Dev |
+| 67150490 | เชษฐกิตติ์ สืบสุขสันติ | Software Developer & QA Tester |
 | 67159224 | รัชภูมิ ธรรมประชา | Software Developer & UI Designer |
 | 67159844 | ภูริภัทร ทองมวน | Software Developer & UI Designer |
 
